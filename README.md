@@ -62,12 +62,6 @@ The analysis combines **statistical metrics**, **daily return calculations**, an
 
 ---
 
-## 📷 Sample Visualization
-![Crash Analysis Chart](docs/sensex_crash_chart.png)  
-*(Red markers indicate days where the daily drop exceeded 5%)*
-
----
-
 ## 🚀 How to Run
 ```bash
 # Clone this repository
